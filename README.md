@@ -1,4 +1,6 @@
-# FletchSomeProxy
+<h1 align="center">
+  FletchSomeProxy 
+</h1>
 
 
 
@@ -6,7 +8,19 @@
 from a argument text file and save all the
 working proxies in another file given by the user..checkout Tool/HoeToUse.txt to
 know more! </li>
+<br>
 
 <p align="center">
   <img src="https://github.com/aritrasa45/FletchSomeProxy/blob/main/Img.jpg" height="200x"/>
 </p>
+
+<br>
+<br>
+
+>[IMPORTANT]
+>It just works on a linux based system..this might not work on
+>other systems such as windows
+
+
+
+
