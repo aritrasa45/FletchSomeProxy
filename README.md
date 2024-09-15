@@ -8,5 +8,5 @@ working proxies in another file given by the user..checkout Tool/HoeToUse.txt to
 know more! </li>
 
 <p align="center">
-  <img src="https://github.com/aritrasa45/FletchSomeProxy/blob/main/Img.jpg" height="250px"/>
+  <img src="https://github.com/aritrasa45/FletchSomeProxy/blob/main/Img.jpg" height="190px"/>
 </p>
