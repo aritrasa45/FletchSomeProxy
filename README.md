@@ -14,7 +14,7 @@ know more! </li>
 
 <br>
 
->[IMPORTANT]
+>[!IMPORTANT]
 >It just works on a linux based
 >system..this might not work on
 >other systems such as windows
