@@ -15,7 +15,7 @@ know more! </li>
 <br>
 
 >[IMPORTANT]
->It just works on a linux based system..this might not work on
+>It just works on a linux based >system..this might not work on
 >other systems such as windows
 
 
