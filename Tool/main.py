@@ -1,5 +1,8 @@
 
 
+
+
+
 import os
 import random
 import sys
@@ -70,17 +73,14 @@ if len(sys.argv) == 4:
                     inactive_proxy += 1
         
             except Exception as e:
-                       print(e)
                        errors += 1
                 
      except Exception as Excp:
             print(Excp)
+            sys.exit(1)
 else:
     raise TypeError(f"{sys.argv[0]} : Invalid argument for importfilename exportfilename number ")
     
-
-
-
 
 
 
