@@ -12,7 +12,6 @@ know more! </li>
 
 <img src="https://github.com/aritrasa45/FletchSomeProxy/blob/main/Img.jpg" style="display:block; margin: 0 auto;">
 
-<br>
 
 >[!IMPORTANT]
 >It just works on a linux based
@@ -25,7 +24,7 @@ know more! </li>
   Install On Terminal
 </h3>
 
-git clone https://github.com/aritrasa45/FletchSomeProxy.git
+<pre>git clone https://github.com/aritrasa45/FletchSomeProxy.git</pre>
 
 <pre>cd FletchSomeProxy</pre>
 <br>
@@ -42,7 +41,7 @@ git clone https://github.com/aritrasa45/FletchSomeProxy.git
 <pre>git pull </pre>
 
 <br>
-To contract admin for any bugs and errors[Telegram](https://telegram.me/zsxxsz1)
+To contract admin for any bugs and errors [Telegram](https://telegram.me/zsxxsz1)
 
 
 
