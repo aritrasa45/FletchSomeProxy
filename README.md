@@ -41,7 +41,10 @@ know more! </li>
 <pre>git pull </pre>
 
 <br>
-To contract admin for any bugs and errors [Telegram](https://telegram.me/zsxxsz1)
 
+
+
+
+To contract admin for errors [Telegram](https://telegram.me/zsxxsz1)
 
 
