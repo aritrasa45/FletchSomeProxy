@@ -44,7 +44,7 @@ check out <a href="https://github.com/aritrasa45/FletchSomeProxy/blob/main/Tool/
 
 
 
-<h5 style="text-align: center"><a> href="https://telegram.me/zsxxsz1">ADMIN TELEGRAM</a></h5>
+contract me on Telegram [Telegram account](https://telegram.me/zsxxsz1)
 
 
 
