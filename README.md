@@ -21,6 +21,28 @@ know more! </li>
 
 
 
-<h4 align="center">
-  Contract Me
-</h4>
+<h3 align="center">
+  Install On Terminal
+</h3>
+
+git clone https://github.com/aritrasa45/FletchSomeProxy.git
+
+<pre>cd FletchSomeProxy</pre>
+<br>
+
+<pre>cd Tool</pre>
+ <br>
+ <pre>python main.py [1] [2] [3] </pre>
+
+
+<h3 align="center">
+  Update Repo
+</h3>
+<br>
+<pre>git pull </pre>
+
+<br>
+To contract admin for any bugs and errors[Telegram](https://telegram.me/zsxxsz1)
+
+
+
