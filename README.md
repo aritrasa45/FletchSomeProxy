@@ -44,27 +44,8 @@ check out <a href="https://github.com/aritrasa45/FletchSomeProxy/blob/main/Tool/
 
 
 
+<h5 style="text-align: center"><a href="https://telegram.me/zsxxsz1"> ADMIN TELEGRAM</a></h5>
 
-<h3 align="center">
-  Install On Terminal
-</h3>
-<li>avalable on every terminal with latest pip and python installed</li>
-
-git clone https://github.com/aritrasa45/AZ-Unlimitedx.git
-
-<pre>cd AZ-Unlimitedx</pre>
-<br>
-
-<pre>pip -r install requirements.txt</pre>
- <br>
- <pre>python main.py</pre>
-
-
-
-
-<h5>align="center">
-  <a href="https://telegram.me/zsxxsz1">TELEGRAM</a>
-</h5>
 
 
 
