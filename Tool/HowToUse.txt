@@ -23,4 +23,8 @@ whenever the required number mets the
 tool will automatically save and close
 
 
+also, if you dont have any proxy.txt file
+then i've added one file there named proxy.txt..use it as a input file
+
+
 --------------THE END---------------
